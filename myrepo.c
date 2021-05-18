@@ -2,6 +2,6 @@
 
 int main(){
 	
-	printf("my mother name is sudeni");
+	printf("my mother name is Waruni");
 	return 0;
 }
